@@ -371,25 +371,25 @@ export default function App() {
   /* ── Real asset paths ── */
   const galleryImages = [
     {
-      src: "./../assets/images/img1.jpg",
+      src: "/assets/images/img1.jpg",
       title: "Registon Majmuasi",
       year: "XV–XVII Asr Me'morchiligi",
       desc: "Samarqanddagi Registon maydoni O'rta Osiyo islom me'morchiligining durdonasi hisoblanadi. Uch madrasadan iborat bu majmua — Ulugbek, Sher-Dor va Tillakori — asrlar davomida ilm va ma'rifat markazi bo'lib kelgan.",
     },
     {
-      src: "./../assets/images/img2.jpg",
+      src: "/assets/images/img2.jpg",
       title: "Ichan Qal'a",
       year: "Xiva Xonligi Me'rosi",
       desc: "UNESCO ro'yxatiga kiritilgan Ichan Qal'a — O'zbekistonning eng yaxshi saqlangan qadimiy shahridir. Minoralar, madrasalar va saroylar bilan to'la bu qo'rg'on Xiva xonligining shon-shuhratini bugun ham namoyon etadi.",
     },
     {
-      src: "./../assets/images/img3.jpg",
+      src: "/assets/images/img3.jpg",
       title: "Amir Temur Davlati",
       year: "Buyuk Mo'g'ul Imperiyasi",
       desc: "Sohibqiron Amir Temur XIV asrda buyuk imperiya qurdi. Samarqandni poytaxt qilib, u yerda ilm, san'at va me'morchilik gulladi. Temuriylar davrida O'rta Osiyo jahon sivilizatsiyasining markaziga aylandi.",
     },
     {
-      src: "./../assets/images/img4.jpg",
+      src: "/assets/images/img4.jpg",
       title: "Shohi Zinda",
       year: "Abadiy San'at Namunasi",
       desc: "Samarqanddagi Shohi Zinda maqbaralar ansambli islom me'morchiligi va bezak san'atining eng noyob namunalaridan biridir. Ko'k va oltin ranglar bilan bezatilgan gumbazlar osmon bilan uyg'un muloqotda turadi.",
@@ -398,13 +398,13 @@ export default function App() {
 
   const videos = [
     {
-      src: "./../assets/videos/video-t-1.mp4",
+      src: "/assets/videos/video-t-1.mp4",
       title: "Mustaqillik Yo'li",
       num: "01",
       desc: "1991-yil 1-sentabr — O'zbekiston mustaqilligining tantanali e'lon qilinishi. Tarixiy Oliy Kengash sessiyasi, xalqning quvonchi va yangi davlatning tug'ilishi haqidagi nodir hujjatli lavhalar.",
     },
     {
-      src: "./../assets/videos/video-t-2.mp4",
+      src: "/assets/videos/video-t-2.mp4",
       title: "Yangi Renessans",
       num: "02",
       desc: "Uchinchi Renessans g'oyasi: zamonaviy O'zbekiston qanday qilib ilm-fan, san'at va texnologiyani milliy taraqqiyotning asosiga aylantirib bormoqda. Ekspertlar, olimlar va yoshlar nigohidan.",
